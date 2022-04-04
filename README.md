@@ -41,7 +41,7 @@ It allows the user to double click on the region and pin it
 ![image](https://user-images.githubusercontent.com/86547119/161562124-f22531c6-8f38-47cd-a276-dd254e73b738.png)
 ![image](https://user-images.githubusercontent.com/86547119/161562275-001b2af5-891a-437d-b23d-18d6a12a138d.png)
 
-#### .3 Delete a pin
+### 3. Delete a pin
 
 It allows admin to delete all the Pins while each user to delete their own created pins.
 ![image](https://user-images.githubusercontent.com/86547119/161562954-d04f407d-2111-48e5-b7ef-81b9f60803fc.png)
