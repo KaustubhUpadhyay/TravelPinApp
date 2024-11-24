@@ -3,8 +3,14 @@ const mongoose = require("mongoose");
 const dotenv = require("dotenv");
 const pinRoute = require("./routes/pins");
 const userRoute = require("./routes/users");
+const cors = require('cors');
+
+const corsOptions = {
+  methods: ['GET', 'POST', 'PUT', 'DELETE'],
+};
 
 const app = express();
+app.use(cors(corsOptions));
 
 dotenv.config();
 
